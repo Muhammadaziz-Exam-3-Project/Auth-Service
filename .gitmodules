@@ -4,3 +4,6 @@
 [submodule "proto"]
 	path = proto
 	url = https://github.com/Muhammadaziz-Exam-3-Project/Protos.git
+[submodule "Authentication-Service/protos"]
+	path = Authentication-Service/protos
+	url = git@github.com:Muhammadaziz-Exam-3-Project/protos.git
