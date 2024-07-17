@@ -1,6 +1,6 @@
 module Github.com/LocalEats/Authentication-Service
 
-go 1.18
+go 1.23rc1
 
 require (
 	github.com/Masterminds/squirrel v1.5.4
